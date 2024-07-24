@@ -3,6 +3,8 @@
 
 This project uses Excel to perform data analysis and visualization of important measures using Excel.
 
+CoffeeShop Dataset: https://mavenanalytics.io/data-playground
+
 ## Project Tasks
 - Data collection and transformation (cleaning and preparation).
 - Analyse daily and hourly sales patterns with PivotTables.
